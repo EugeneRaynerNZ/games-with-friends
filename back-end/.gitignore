@@ -1,0 +1,16 @@
+#ignore node_modules
+node_modules/
+
+#ignore npm debug log
+npm-debug.log
+
+#ignore automatically generated files
+/dist
+/build
+/node_modules
+/.pnp
+.pnp.js
+
+#ignore vscode/idea settings
+/.vscode
+/.idea
